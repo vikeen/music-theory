@@ -1,0 +1,22 @@
+{
+  "name": "music",
+  "version": "0.0.0",
+  "description": "Music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/vikeen/music-theory.git",
+  "author": "John Rake",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-shell": "^0.2.10",
+    "jasmine-core": "^2.1.2",
+    "jasmine-node-karma": "^1.6.1",
+    "karma": "^0.12.25",
+    "karma-jasmine": "^0.3.0",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "underscore-node": "^0.1.2"
+  }
+}
